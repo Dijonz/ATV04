@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#define max 30
+#define max 20
 
 typedef struct info
 {
